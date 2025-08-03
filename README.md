@@ -9,7 +9,7 @@ I am a results-driven Data Scientist and Data Engineer with over 3 years of indu
 W. P. Carey School of Business, Arizona State University, USA  
 🎓 Bachelor of Technology in Computer Science and Engineering  
 Walchand College of Engineering, Sangli, India  
-💼 3+ years of work experience as Analyst and Data Scientist/AI Engineer 
+💼 4+ years of work experience as Analyst and Data Scientist/AI Engineer 
 
 ---
 
