@@ -1,5 +1,5 @@
 Welcome to my GitHub profile!  
-I am a results-driven Data Scientist and Data Engineer with over 3 years of industry experience. I specialize in building scalable data pipelines, developing Generative AI solutions, and transforming complex data into actionable insights. My work spans data engineering, machine learning, and business intelligence. I am proficient in Python, SQL, Azure Databricks, Spark, and cloud platforms like AWS and Azure.
+I am an AI and ML Engineer with more than 3 years of experience building scalable data pipelines, training predictive models and developing practical GenAI solutions. I work across data engineering, machine learning and analytics to turn complex data into clear insights. Strong in Python, SQL, Databricks, Spark and cloud platforms including AWS and Azure.
 
 ---
 
